@@ -7,6 +7,9 @@
 <p><strong>Education: </strong><a href="https://ru.hexlet.io/programs/frontend" target="_blank">Hexlet Frontend programm</a> student</p>
 
 
+[![Codewars Badge](https://www.codewars.com/users/Git-EDO/badges/large)](https://www.codewars.com/users/Git-EDO)
+
+
 
 
 
