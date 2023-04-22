@@ -4,4 +4,4 @@
 
 ## Technologies: HTML/CSS(SCSS), vanilla JavaScript, React + Redux
 
-<img src="/images/html-5-icon.svg" alt="icon">
+<img src="/images/html-5-icon.svg" alt="icon" width="16" height="16">
