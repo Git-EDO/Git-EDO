@@ -3,3 +3,5 @@
 <h3 align="center">I'm a Frontend Developer, freelance HTML markup coder</h3>
 
 ## Technologies: HTML/CSS(SCSS), vanilla JavaScript, React + Redux
+
+<img src="/images/html-5-icon.svg" alt="icon">
